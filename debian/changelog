@@ -1,0 +1,5 @@
+python-typing-extensions (100:4.3.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/python/typing/releases/tag/4.3.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Sat, 02 Jul 2022 08:08:12 +0800
